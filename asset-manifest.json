@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GPT-3/static/css/main.0b308429.css",
-    "main.js": "/GPT-3/static/js/main.a55dade1.js",
+    "main.css": "/GPT-3/static/css/main.7a891a61.css",
+    "main.js": "/GPT-3/static/js/main.df9e9132.js",
     "static/media/ai.png": "/GPT-3/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/GPT-3/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/GPT-3/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -10,12 +10,14 @@
     "static/media/blog05.png": "/GPT-3/static/media/blog05.bfaa1c1e3851158e0e1f.png",
     "static/media/blog02.png": "/GPT-3/static/media/blog02.ab0eb367561796e91532.png",
     "static/media/Manrope-Regular.ttf": "/GPT-3/static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
+    "static/media/people.png": "/GPT-3/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/GPT-3/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/GPT-3/index.html",
-    "main.0b308429.css.map": "/GPT-3/static/css/main.0b308429.css.map",
-    "main.a55dade1.js.map": "/GPT-3/static/js/main.a55dade1.js.map"
+    "main.7a891a61.css.map": "/GPT-3/static/css/main.7a891a61.css.map",
+    "main.df9e9132.js.map": "/GPT-3/static/js/main.df9e9132.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b308429.css",
-    "static/js/main.a55dade1.js"
+    "static/css/main.7a891a61.css",
+    "static/js/main.df9e9132.js"
   ]
 }
